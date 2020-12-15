@@ -1,6 +1,16 @@
 # Getting Started with Create React App
 
+## [Template - Elite Material Dashboard](https://material-dashboard-free.surge.sh/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+To run the application, go to the project's root folder and run the following:
+
+`yarn upgrade`
+
+`yarn`
+
+`yarn run start`
 
 ## Available Scripts
 
